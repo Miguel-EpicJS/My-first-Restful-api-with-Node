@@ -9,3 +9,5 @@ This is a simple and my first Restful api with node, in future i want to create 
  - And `yarn add nodemon`
  
  For run `yarn dev`
+
+Reference [link(pt-br)](https://blog.geekhunter.com.br/criar-crud-nodejs/)
